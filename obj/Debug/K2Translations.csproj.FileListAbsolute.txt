@@ -1,0 +1,10 @@
+C:\Users\WilberM\source\repos\K2Translations\obj\Debug\K2Translations.csproj.AssemblyReference.cache
+C:\Users\WilberM\source\repos\K2Translations\obj\Debug\K2Translations.csproj.CoreCompileInputs.cache
+C:\Users\WilberM\source\repos\K2Translations\bin\Debug\K2Translations.dll
+C:\Users\WilberM\source\repos\K2Translations\bin\Debug\K2Translations.pdb
+C:\Users\WilberM\source\repos\K2Translations\bin\Debug\SourceCode.SmartObjects.Services.ServiceSDK.dll
+C:\Users\WilberM\source\repos\K2Translations\obj\Debug\K2Transl.71E3A646.Up2Date
+C:\Users\WilberM\source\repos\K2Translations\obj\Debug\K2Translations.dll
+C:\Users\WilberM\source\repos\K2Translations\obj\Debug\K2Translations.pdb
+C:\Users\WilberM\source\repos\K2Translations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WilberM\source\repos\K2Translations\bin\Debug\Newtonsoft.Json.xml

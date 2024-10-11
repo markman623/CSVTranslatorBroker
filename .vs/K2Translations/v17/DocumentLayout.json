@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WilberM\\source\\repos\\K2Translations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EC14F-8D08-4327-AC70-1E4510EA768C}|K2Translations.csproj|c:\\users\\wilberm\\source\\repos\\k2translations\\k2translationsservicebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1EC14F-8D08-4327-AC70-1E4510EA768C}|K2Translations.csproj|solutionrelative:k2translationsservicebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1EC14F-8D08-4327-AC70-1E4510EA768C}|K2Translations.csproj|c:\\users\\wilberm\\source\\repos\\k2translations\\k2translations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1EC14F-8D08-4327-AC70-1E4510EA768C}|K2Translations.csproj|solutionrelative:k2translations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "K2Translations.cs",
+              "DocumentMoniker": "C:\\Users\\WilberM\\source\\repos\\K2Translations\\K2Translations.cs",
+              "RelativeDocumentMoniker": "K2Translations.cs",
+              "ToolTip": "C:\\Users\\WilberM\\source\\repos\\K2Translations\\K2Translations.cs",
+              "RelativeToolTip": "K2Translations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:36:32.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K2TranslationsServiceBroker.cs",
+              "DocumentMoniker": "C:\\Users\\WilberM\\source\\repos\\K2Translations\\K2TranslationsServiceBroker.cs",
+              "RelativeDocumentMoniker": "K2TranslationsServiceBroker.cs",
+              "ToolTip": "C:\\Users\\WilberM\\source\\repos\\K2Translations\\K2TranslationsServiceBroker.cs",
+              "RelativeToolTip": "K2TranslationsServiceBroker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:22:52.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
